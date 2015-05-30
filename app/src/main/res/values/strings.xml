@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">courses</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="course">
+
+        <item>BIT</item>
+        <item>BBIT</item>
+        <item>BMC</item>
+        <item>BICT</item>
+        <item>BEC</item>
+        <item>BGT</item>
+        <item>BST</item>
+        <item>BBIS</item>
+        <item>BSEM</item>
+
+    </string-array>
+</resources>
